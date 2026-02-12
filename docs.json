@@ -1,4 +1,6 @@
 {
+  "name": "Integration Odyssey",
+  "theme" : "mint",
   "navigation": {
     "products": [
       {
